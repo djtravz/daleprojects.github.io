@@ -1,16 +1,13 @@
 ---
 layout: default
 permalink: /
+title: djtravz
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome to DaleProjects!</h1>
-  <p>Here are the subpages of our website:</p>         
-  <ul>
-  <li>David's Python <b><a href="/programs">programs</a></b></li>
-  <li>Learn more <b><a href="/about">about</a> us</b></li>
-  </ul>
+  <h1 class="page-heading">Welcome to my Personal Website!</h1>
+  <p>Use the links on the header to navigate through the page.</p>
 
 <a href="https://daleprojects.github.io/secret/" class="gaster">.</a>
 
