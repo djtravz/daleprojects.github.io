@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /
-title: djtravz
 ---
 
 <div class="home">
