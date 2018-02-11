@@ -14,6 +14,7 @@ permalink: /services/
   <ul>
     <li><a href="/lawn/">Lawn cutting</a></li>
     <li><a href="/weed/">Weed pulling</a></li>
+    <li><a href="/wash/">Car wash</a></li>
   </ul>
 <p>Food & Stuffs:</p>
   <ul>
