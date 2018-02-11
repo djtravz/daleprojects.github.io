@@ -23,6 +23,6 @@ permalink: /services/
     <li><a href="/services/lemonade/">Fresh lemonade to your door</a></li>
   </ul>
 <h1>Need anything else?</h1>
-<p>If there is something that you would like done that is not on this list, please contact me at (610) 781-5528 (call or text) or djtravz@gmail.com (email).</p>
+<p>If there is something that you would like done that is not on this list, please contact me at (610) 781-5528 (call or text) or <a href="mailto:djtravz@gmail.com?subject={SERVICES}%20Another%20Service">djtravz@gmail.com</a> (email).</p>
 <p></p>
 <h1>Thanks for checking me out! :)</h1>
