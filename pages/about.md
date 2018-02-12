@@ -16,4 +16,4 @@ permalink: /about/
 <li>Play Games</li>
 </ul>
 <p></p>
-<p>You can view my resume <a href="/resume/">here</a>.</p>
+<p>You can view my resume <a href="/about/resume/">here</a>.</p>
