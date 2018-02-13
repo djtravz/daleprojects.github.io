@@ -12,8 +12,7 @@ permalink: /services/
   </ul>
 <p>Labor:</p>
   <ul>
-    <li><a href="/services/lawn/">Lawn cutting</a></li>
-    <li><a href="/services/weed/">Weed pulling</a></li>
+    <li><a href="/services/lawn/">Lawn Care</a></li>
     <li><a href="/services/wash/">Car wash</a></li>
   </ul>
 <p>Food & Stuffs:</p>
