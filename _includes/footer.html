@@ -32,7 +32,12 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <button onclick="goBack()">Go Back</button>
+        <script>
+          function goBack() {
+            window.history.back();
+          }
+        </script>
       </div>
     </div>
     
