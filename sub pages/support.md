@@ -8,4 +8,4 @@ title: Technology Support & Issue Resolution
 <h1>Pricing</h1>
 <p><b>$5</b> per half hour.</p>
 <h1>Interested?</h1>
-<p>Please contact me at <b>(610) 781-5528</b> (call or text) or <b>djtravz@gmail.com</b> (email).</p>
+<p>Please contact me at (610) 781-5528 (call or text) or <a href="mailto:djtravz@gmail.com?subject={SERVICES}%20Tech%20Support">djtravz@gmail.com</a> (email).</p>
