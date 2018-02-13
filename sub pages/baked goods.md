@@ -12,4 +12,4 @@ title: Baked Goods
 </ul>
 <p>Price will be determined by order</p>
 <h1>Interested?</h1>
-<p>Please contact me at <b>(610) 781-5528</b> (call or text) or <b>djtravz@gmail.com</b> (email).</p>
+<p>Please contact me at (610) 781-5528 (call or text) or <a href="mailto:djtravz@gmail.com?subject={SERVICES}%20Baked%20Goods">djtravz@gmail.com</a> (email).</p>
