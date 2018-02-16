@@ -4,6 +4,7 @@ title: Services I Offer
 permalink: /services/
 ---
 <h1>Services I Offer</h1>
+<p>Click on a service to learn more about it.</p>
 <p>Technology:</p>
   <ul>
     <li><a href="/services/set-up/">Device set-up</a></li>
