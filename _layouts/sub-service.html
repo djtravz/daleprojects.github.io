@@ -1,10 +1,37 @@
----
-layout: sub-service
----
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    <!--
+<style>
+  div {
+  background-image: url('http://www.pixelstalk.net/wp-content/uploads/2016/06/HD-Wallpapers-Gif-Download.gif');
+  }
+    </style>
+-->
+    {% include footer.html %}
+
+  </body>
+
+</html>
 
 <div class="sidebar-right sidebar right column-4">
-  <p>Did you know ...</p>
-  <ul class="fact-list smaller">
-    ...
-  </ul>
+  {% for item in site.data.sub-service.toc %}
+    <h3>{{ item.title }}</h3>
+      <ul>
+        {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+        {% endfor %}
+      </ul>
+  {% endfor %}
 </div>
