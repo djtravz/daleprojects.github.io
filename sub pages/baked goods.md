@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sub-service
 permalink: /services/bake/
 title: Baked Goods
 ---
