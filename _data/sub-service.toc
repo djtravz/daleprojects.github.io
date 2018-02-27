@@ -1,0 +1,23 @@
+toc:
+  - title: Technology
+    subfolderitems:
+      - page: Device set-up
+        url: /services/set-up/
+      - page: Technology support/Issue resolution
+        url: /services/support/
+      - page: Conversions
+        url: /services/conversions/
+  - title: Labor
+    subfolderitems:
+      - page: Lawn Care
+        url: /services/lawn/
+      - page: Car wash
+        url: /services/wash/
+  - title: Food &amp; Stuffs
+    subfolderitems:
+      - page: Baked goods
+        url: /services/bake/
+      - page: Dye-IT! Salt
+        url: /services/salt/
+      - page: Fresh lemonade
+        url: /services/lemonade/
