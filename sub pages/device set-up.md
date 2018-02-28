@@ -2,6 +2,7 @@
 layout: default
 permalink: /services/set-up/
 title: Device Set Up
+sidebar: toc
 ---
 <h1>First Time Device Setup</h1>
 <p>I can help you set up a device like:</p>
