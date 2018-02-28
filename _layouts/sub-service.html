@@ -22,24 +22,23 @@
     {% include footer.html %}
 
   </body>
-<div class="sidebar-right sidebar right column-4">
-  {% for item in site.data.sub-service.toc %}
-    <h3>{{ item.title }}</h3>
-      <ul>
-        {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-      </ul>
-  {% endfor %}
-</div>
   <div class="sidebar-right sidebar right column-4">
   {% for item in site.data.sub-service.toc %}
     <h3>{{ item.title }}</h3>
-      <ul>
+    <ul >
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </ul>
+    
+    
+    <ul class="{% if item.url == page.url %}active{% endif %}">
         {% for entry in item.subfolderitems %}
           <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
         {% endfor %}
       </ul>
+    
+    
+    
+    
   {% endfor %}
 </div>
 
