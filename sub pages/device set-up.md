@@ -19,3 +19,13 @@ title: Device Set Up
 </ul><p>Prices are all negotiable</p>
 <h1>Interested?</h1>
 <p>Please contact me at (610) 781-5528 (call or text) or <a href="mailto:djtravz@gmail.com?subject={SERVICES}%20Device%20Set-Up">djtravz@gmail.com</a> (email).</p>
+<div class="sidebar-right sidebar right column-4">
+  {% for item in site.data.sub-service.toc %}
+    <h3>{{ item.title }}</h3>
+      <ul>
+        {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+        {% endfor %}
+      </ul>
+  {% endfor %}
+</div>
