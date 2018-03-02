@@ -10,6 +10,7 @@ permalink: /services/
     <li><a href="/services/set-up/">Device set-up</a></li>
     <li><a href="/services/support/">Technology support/Issue resolution</a></li>
     <li><a href="/services/conversions/">Photos/Tape Conversions</a></li>
+    <l1><a href="/services/repair/">Device Repair</a></li>
   </ul>
 <p>Labor:</p>
   <ul>
