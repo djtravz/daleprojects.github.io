@@ -1,5 +1,5 @@
 ---
-layout: sub-page
+layout: sub-service
 permalink: /services/repair/
 title: Device Repair
 ---
