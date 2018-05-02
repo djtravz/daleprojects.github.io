@@ -6,7 +6,9 @@ title: David's Format Conversions
 
 <h1>Tape Conversions</h1>
 <p>Hello! This is where you can convert tapes with home videos into digital files <i>or</i> DVDs.</p>
-<p>The flat rate <b>per tape</b> is <b>$15</b> for a <b>digital file</b> <i>and</i> <b>$20</b> if you would like it on a <b>DVD</b></p>
+<p>The flat rate <b>per tape</b> is <b>$15</b> for a <b>digital file</b> <i>or</i> <b>$20</b> if you would like it on a <b>DVD</b>
+<p>Prices can be negotiated based on your budget</p>
+</p>
 <p></p>
 <p>When you contact me we will decide whether I pick them up, or you mail them.</p>
 <p></p>
