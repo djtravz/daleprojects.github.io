@@ -2,6 +2,7 @@
 layout: plain
 title: NFCoding
 permalink: /NFCoding/
+
 ---
 
 <h1>NFCoding</h1>
