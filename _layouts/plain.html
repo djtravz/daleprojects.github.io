@@ -3,7 +3,12 @@
 
   {% include head.html %}
   <body>
-
+    <button onclick="goBack()">Go Back</button>
+        <script>
+          function goBack() {
+            window.history.back();
+          }
+        </script>
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
