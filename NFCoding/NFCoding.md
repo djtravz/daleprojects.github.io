@@ -17,5 +17,6 @@ permalink: /NFCoding/
 
 <h1><a href="/NFCoding/reflection/">Reflections</a></h1>
 
-
+<h1></h1>
+<h1>Credits</h1>
 {% include credits.html %}
