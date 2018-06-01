@@ -5,7 +5,6 @@ permalink: /NFCoding/
 
 ---
 
-<h1>NFCoding</h1>
 
 <p><i>P12: </i><b>David Travers, Joel Loos, Noah Higley, and Ryan Hu</b></p>
 <p></p>
