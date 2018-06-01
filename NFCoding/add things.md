@@ -9,4 +9,7 @@ permalink: /NFCoding/things-to-add/
     <li>If/Else statements</li>
     <li>Variables</li>
     <li>More functions</li>
+    <li>Being able to work on other computers</li>
+    <li>Tags with letters</li>
+    <li>Color coordinated blocks by type</li>
 </ul>
