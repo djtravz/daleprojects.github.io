@@ -8,4 +8,5 @@ permalink: /NFCoding/things-to-add/
 <ul>
     <li>If/Else statements</li>
     <li>Variables</li>
+    <li>More functions</li>
 </ul>
