@@ -15,7 +15,7 @@ permalink: /NFCoding/
 
 <h1><a href="/NFCoding/things-to-add/">Things we would add</a></h1>
 
-<h1><a href="/NFCoding/reflection/">Reflections</a></h1>
+<h1><a href="/NFCoding/reflection/">Reflection</a></h1>
 
 <h1></h1>
 <h1>Credits</h1>
