@@ -10,6 +10,30 @@ title: My Work
 <li><a href="http://troop423.github.io/">Troop 423 Page</a></li>
 </ul>
 <h1>Videos I have Made</h1>
-<iframe width="757" height="426" src="https://www.youtube.com/embed/5wpH2NWPom0;ecver=1" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-
-<p>More coming soon...</p>
+<p>Chinese Music Video (2018)</p>
+<iframe width="757" height="426" src="https://www.youtube.com/embed/5wpH2NWPom0;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Utah & Colorado (2018)</p>
+<iframe width="757" height="426" src="https://www.youtube.com/embed/Hzppy9IzHzQ;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Super Bowl Recap (2018)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/CS44GCtPe78;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Super Smash Announcements (2018)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/SbjDNjxO1Ak;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Chinese Fried Rice (2017)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/OyjxpoPwyhg;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Modern Announcements (2018)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/LrdXzffpgqA;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Super Bowl Team Recap (2018)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/NuuryU_XX4w;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Door Knob Video (2017)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/MKxyHNrKFm4;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+<p>Goin' For a Walk (2017)</p>
+<iframe width="747" height="426" src="https://www.youtube.com/embed/BSO48DvtrsI;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<p></p>
