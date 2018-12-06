@@ -12,7 +12,7 @@ title: My Work
 <h1>Videos I have Made</h1>
 <p>Chinese Music Video (2018)</p>
 <p>Based off of <a href="https://www.youtube.com/watch?v=yF-8Vy-NboM">this</a>.</p>
-<iframe width="757" height="426" src="https://www.youtube.com/embed/5wpH2NWPom0;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="757" height="426" src="https://www.youtube.com/embed/5wpH2NWPom0;ecver=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Utah & Colorado (2018)</p>
 <iframe width="757" height="426" src="https://www.youtube.com/embed/Hzppy9IzHzQ;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
