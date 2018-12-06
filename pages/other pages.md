@@ -11,6 +11,7 @@ title: My Work
 </ul>
 <h1>Videos I have Made</h1>
 <p>Chinese Music Video (2018)</p>
+<p>Based off of <a href="https://www.youtube.com/watch?v=yF-8Vy-NboM">this</a>.</p>
 <iframe width="757" height="426" src="https://www.youtube.com/embed/5wpH2NWPom0;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Utah & Colorado (2018)</p>
@@ -20,12 +21,14 @@ title: My Work
 <iframe width="747" height="426" src="https://www.youtube.com/embed/CS44GCtPe78;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Super Smash Announcements (2018)</p>
+<p>Based off of <a href="https://youtu.be/Rx8gVDujCyo?t=314">these</a> and <a href="https://youtu.be/w3Gt42kVgCw?t=59">this</a>.</p>
 <iframe width="747" height="426" src="https://www.youtube.com/embed/SbjDNjxO1Ak;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Chinese Fried Rice (2017)</p>
 <iframe width="747" height="426" src="https://www.youtube.com/embed/OyjxpoPwyhg;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Modern Announcements (2018)</p>
+<p>Based off of <a href="https://www.youtube.com/watch?v=h66TdMI5n5I">this</a>.</p>
 <iframe width="747" height="426" src="https://www.youtube.com/embed/LrdXzffpgqA;ecver=1" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 <p></p>
 <p>Super Bowl Team Recap (2018)</p>
