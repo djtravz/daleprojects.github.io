@@ -16,7 +16,7 @@ title: My Work
 <p>Logo for the Media club (2018)</p>
 <img src="https://github.com/djtravz/djtravz.github.io/blob/master/my%20work/wilson%20battlestar%20bulldog.png?raw=true">
 <p></p>
-<p>Parody Box art for Pikmin 2</p>
+<p>Parody Box art for Pikmin 2 (2017)</p>
 <p><a href="https://www.mobygames.com/images/covers/l/370350-pikmin-2-gamecube-full-cover.jpg">Original box art</a></p>
 <img src="https://github.com/djtravz/djtravz.github.io/blob/master/my%20work/Louie%20and%20Louie;%20The%20Adventures%20of%20Louie.png?raw=true">
 
