@@ -1,3 +1,6 @@
+---
+permalink: /redirect/ma
+---
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Redirecting to this week's Morning Announcements Signup</title>
