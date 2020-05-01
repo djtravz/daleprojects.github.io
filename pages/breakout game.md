@@ -2,7 +2,6 @@
 permalink: /breakoutGame/
 layout: redirects
 ---
-<!DOCTYPE html>
 <html>
 
 <head>
