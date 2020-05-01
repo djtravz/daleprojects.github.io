@@ -10,12 +10,12 @@ layout: redirects
     <title>Breakout Game - David Travers</title>
     <style>
         canvas {
-            border: 1px solid #2b2b2b;
+            border: 1px solid #000000;
             background-color: #000000;
         }
 
         body {
-            background-color: #292929;
+            background-color: #000000;
         }
 
         p {
@@ -39,7 +39,7 @@ layout: redirects
         var cnv = document.getElementById("ctv"); // gets the canvas from html to a variable here in js
 
         cnv.width = window.innerWidth - 2; // sets the canvas width to be the width of the window size, -2 is so no scroll bars appear
-        cnv.height = window.innerHeight - 5; // same thing as above, just with height
+        cnv.height = window.innerHeight - 6; // same thing as above, just with height
 
         var ctx = cnv.getContext("2d"); // gets the canvas context, so things can actually be done with it
 
