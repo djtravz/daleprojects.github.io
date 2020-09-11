@@ -239,7 +239,6 @@ a#pdf:hover { background: var(--slight-strong-text); }
 							<div class="job">
 								<h2>Wilson Media Productions</h2>
 								<h4>2020-Present</h4>
-		</h4>
 								<p>Wilson Media Productions' student learning positions provide an opportunity for the student to work daily in an authentic job setting with the Media Production manager to study all aspects of video production as well as media support for staff and students in an educational environment.</p>
 							</div>
 
