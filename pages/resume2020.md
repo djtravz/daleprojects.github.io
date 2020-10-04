@@ -313,5 +313,3 @@ a#pdf:hover { background: var(--slight-strong-text); }
 
 
 <!--// doc -->
-
-</body></html>
