@@ -279,6 +279,14 @@ layout: redirects
                                         <span class="year">2020-Present</span>
                                     </p>
                                 </div>
+				<div class="talent">
+                                    <h2>WHS Smash Club
+                                        <span class="year">2019-Present</span>
+                                    </h2>
+                                    <p>President
+                                        <span class="year">2020-Present</span>
+                                    </p>
+                                </div>
                                 <div class="talent">
                                     <h2>Gay Straight Alliance
                                         <span class="year">2017-Present</span>
