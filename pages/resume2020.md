@@ -287,6 +287,14 @@ layout: redirects
                                         <span class="year">2020-Present</span>
                                     </p>
                                 </div>
+				<div class="talent">
+                                    <h2>WHS ESports Team (Bone Breaking Bulldogs)
+                                        <span class="year">2020-Present</span>
+                                    </h2>
+                                    <p>Founder
+                                        <span class="year">2020-Present</span>
+                                    </p>
+                                </div>
                                 <div class="talent">
                                     <h2>Gay Straight Alliance
                                         <span class="year">2017-Present</span>
