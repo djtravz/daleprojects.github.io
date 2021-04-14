@@ -294,6 +294,9 @@ layout: redirects
                                     <p>Founder
                                         <span class="year">2020-Present</span>
                                     </p>
+				    <p>Super Smash Bros. Ultimate Team 2
+                                        <span class="year">2020-Present</span>
+                                    </p>
                                 </div>
                                 <div class="talent">
                                     <h2>Gay Straight Alliance
