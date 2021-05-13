@@ -194,7 +194,7 @@ layout: redirects
                             <div class="yui-u edu">
                                 <h2>
                                     <strong>Wilson High School</strong> — West Lawn, Pennsylvania
-                                    <span class="year">Graduating June 2021</span>
+                                    <span class="year">Graduated June 2021</span>
                                 </h2>
                                 <h3>
                                     <i>3.65 GPA</i>
@@ -234,7 +234,7 @@ layout: redirects
                                     <li>GNU/Linux (Xubuntu, Manjaro), Microsoft Windows, Apple MacOS</li>
                                     <li>C++, Python 2.8, Java, JavaScript, HTML, CSS</li>
                                     <li>Live Broadcast Production, Audio Mixing, Post-Production Editing</li>
-                                    <li>Building Desktops, Chromebook Repair</li>
+                                    <li>Building Desktops, Chromebook Repair, KACE</li>
                                     <li class="last">Chinese Language (basic)</li>
                                 </ul>
                             </div>
@@ -248,12 +248,12 @@ layout: redirects
                             <div class="yui-u">
                                 <div class="job">
                                     <h2>Wilson Media Productions</h2>
-                                    <h4>2020-Present</h4>
+                                    <h4>2020-2021</h4>
                                     <p>Wilson Media Productions' student learning positions provide an opportunity for students to work daily in an authentic job setting with the Media Production manager to study all aspects of video production as well as media support for staff and students in an educational environment.</p>
                                 </div>
                                 <div class="job last">
                                     <h2>Wilson Technology Department</h2>
-                                    <h4>2020-Present</h4>
+                                    <h4>2020-2021</h4>
                                     <p>Technology Operations' student learning positions provide an opportunity for students to work daily with the members of the tech department to study all aspects of technology support, including computer hardware and software, networking, and data management in an educational environment.</p>
                                 </div>
                             </div>
@@ -276,45 +276,45 @@ layout: redirects
                                         <span class="year">2019-2020</span>
                                     </p>
                                     <p>President
-                                        <span class="year">2020-Present</span>
+                                        <span class="year">2020-2021</span>
                                     </p>
                                 </div>
 				<div class="talent">
                                     <h2>WHS Smash Club
-                                        <span class="year">2019-Present</span>
+                                        <span class="year">2019-2021</span>
                                     </h2>
                                     <p>President
-                                        <span class="year">2020-Present</span>
+                                        <span class="year">2020-2021</span>
                                     </p>
                                 </div>
 				<div class="talent">
-                                    <h2>WHS ESports Team (Bone Breaking Bulldogs)
-                                        <span class="year">2020-Present</span>
+                                    <h2>WHS Esports
+                                        <span class="year">2020-2021</span>
                                     </h2>
                                     <p>Founder
-                                        <span class="year">2020-Present</span>
+                                        <span class="year">2020-2021</span>
                                     </p>
-				    <p>Super Smash Bros. Ultimate Team 2
-                                        <span class="year">2020-Present</span>
+				    <p>Super Smash Bros. Ultimate Bulldog Blitz (top 32)
+                                        <span class="year">2021</span>
                                     </p>
                                 </div>
                                 <div class="talent">
                                     <h2>Gay Straight Alliance
-                                        <span class="year">2017-Present</span>
+                                        <span class="year">2017-2021</span>
                                     </h2>
                                     <p>Technical Officer
                                         <span class="year">2019-2020</span>
                                     </p>
                                     <p>Treasurer
-                                        <span class="year">2020-Present</span>
+                                        <span class="year">2020-2021</span>
                                     </p>
                                 </div>
                                 <div class="talent">
                                     <h2>East Asian Club
-                                        <span class="year">2017-Present</span>
+                                        <span class="year">2017-2021</span>
                                     </h2>
                                     <p>Video Productions
-                                        <span class="year">2019-Present</span>
+                                        <span class="year">2019-2021</span>
                                     </p>
                                 </div>
                             </div>
